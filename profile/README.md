@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 Welcome to use https://airdb.wiki
-
+Main repo is [https://github.com/airdb](https://github.com/airdb)
 <!--
 
 **Here are some ideas to get you started:**
